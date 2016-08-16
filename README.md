@@ -1,2 +1,4 @@
 # Supreme-Happiness
-My First Repository
+My First Repo
+
+Thanks for stopping by.
